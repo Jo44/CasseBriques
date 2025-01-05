@@ -3,7 +3,7 @@
 Casse Briques (Game app)  
 Android 8.0 (API 26) or newer
 
-image
+![casse_briques](https://github.com/user-attachments/assets/57039a6d-bc5a-4773-a008-6e5f76533366)
 
 # Download
 
@@ -12,5 +12,5 @@ https://drive.google.com/file/d/1odJCuaMUwbBxtam4JIcJqaOEtbeKKmBF/view?usp=shari
 
 # Changelog
 
-* Update 1.0 - depuis 05/01/2025 :  
+* Update 1.0 - 05/01/2025 :  
   * The game
